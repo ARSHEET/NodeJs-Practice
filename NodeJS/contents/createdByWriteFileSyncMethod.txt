@@ -1,0 +1,1 @@
+This file is created by writeFileSync method by fs module: first text here, second text hereThis file is created by writeFileSync method by fs module: first text here, second text hereThis file is created by writeFileSync method by fs module: first text here, second text here

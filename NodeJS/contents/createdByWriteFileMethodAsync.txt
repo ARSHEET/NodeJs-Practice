@@ -1,1 +1,0 @@
-Here's the result of writeFile: first text here, second text here
